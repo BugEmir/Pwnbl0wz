@@ -1,5 +1,6 @@
-# Pwnbl0wz
-
+# Pwnbl0wz - Windows C2-Listener & Backdoor
+# <img src="https://i.imgur.com/3Pmapwm.png"></img>
+       
 <p align="left">
   <a href="#Installation" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/Installation-red?style=for-the-badge"></a>
   <a href="#Configuration" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/Configuration-blue?style=for-the-badge"></a>
